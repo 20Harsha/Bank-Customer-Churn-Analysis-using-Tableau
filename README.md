@@ -5,7 +5,7 @@ The Bank Customer Churn dataset consist of 13 columns and 10,000 rows. This part
 * Before analyzing the data the quality of the data has been checked.
 * Using Business Intelligence tool Tableau the Bank Customer Churn Analysis dashboard has been created. The dashboard consist of filters and it is an interactive dashboard where user can interact with the dashboard to find answers to the business questions.
 
-## **Finding answers to the following questions** : 
+## **Finding answers to the following questions**: 
 
 **Q.1) What is the total percentage of active customers?**
 
